@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\bin\Debug\net8.0\Patika Kütüphane Project.exe
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\bin\Debug\net8.0\Patika Kütüphane Project.deps.json
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\bin\Debug\net8.0\Patika Kütüphane Project.runtimeconfig.json
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\bin\Debug\net8.0\Patika Kütüphane Project.dll
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\bin\Debug\net8.0\Patika Kütüphane Project.pdb
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\obj\Debug\net8.0\Patika Kütüphane Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\obj\Debug\net8.0\Patika Kütüphane Project.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\obj\Debug\net8.0\Patika Kütüphane Project.AssemblyInfo.cs
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\obj\Debug\net8.0\Patika Kütüphane Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\obj\Debug\net8.0\Patika Kütüphane Project.sourcelink.json
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\obj\Debug\net8.0\Patika Kütüphane Project.dll
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\obj\Debug\net8.0\refint\Patika Kütüphane Project.dll
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\obj\Debug\net8.0\Patika Kütüphane Project.pdb
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\obj\Debug\net8.0\Patika Kütüphane Project.genruntimeconfig.cache
+C:\Users\User\Desktop\Patika Kütüphane Project\Patika Kütüphane Project\obj\Debug\net8.0\ref\Patika Kütüphane Project.dll
