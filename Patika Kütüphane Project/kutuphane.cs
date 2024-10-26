@@ -29,6 +29,11 @@ namespace Patika_Kütüphane_Project
         // Default Constructor
         public Kutuphane()
         {
+            KitapAdı = "Aylin";
+            YazarAdı = "Ayşe";
+            YazarSoyadı = "Kulin";
+            SayfaSayısı = 398;
+            YayınEvi = "Ramiz Kitapevi";
             YayınTarihi = DateTime.Now;
         }
 

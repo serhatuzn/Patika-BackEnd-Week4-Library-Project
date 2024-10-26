@@ -1,6 +1,6 @@
 ﻿using Patika_Kütüphane_Project;
 
-Kutuphane kitap1 = new Kutuphane("Aylin", "Ayşe", "Kulin", 398, "Remiz Kitapevi");
+Kutuphane kitap1 = new Kutuphane();
 
 kitap1.Yazdır();
 
